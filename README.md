@@ -18,7 +18,7 @@ Before running the tests, make sure you have the following installed:
 
 - clone repository
 ```
-git clone https://github.com/Katia-Radchenko/test-task.git
+git clone https://github.com/Katia-Radchenko/epam-automation-qa-final-test.git
 ```
 - to project root folder
 ```

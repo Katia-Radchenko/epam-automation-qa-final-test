@@ -21,9 +21,6 @@ Before running the tests, make sure you have the following installed:
 git clone https://github.com/Katia-Radchenko/epam-automation-qa-final-test.git
 ```
 - to project root folder
-```
-cd test-task
-```
 - install dependencies
 ```
 npm install
